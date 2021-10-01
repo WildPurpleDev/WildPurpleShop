@@ -1,2 +1,0 @@
-# WildPurpleShop
-Wild Purple Shop
