@@ -751,11 +751,6 @@ footer {
     margin: 0;
 }
 
-.banner-cover,
-.banner-second {
-    background-position: center top;
-    background-size: cover;
-}
 
 .banner-cover {
     background-image: url(../img/banner.png);
