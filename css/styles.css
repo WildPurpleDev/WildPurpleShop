@@ -456,6 +456,7 @@ footer {
 
 .form-group-container {
     position: relative;
+    visibility: hidden;
 }
 
 .form-group-icon {
