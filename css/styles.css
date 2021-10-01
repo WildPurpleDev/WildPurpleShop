@@ -472,6 +472,7 @@ footer {
     border: var(--border-dark-light);
     width: 100%;
     outline: none;
+    visibility: hidden;
 }
 
 .nav {
